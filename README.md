@@ -9,10 +9,6 @@ This configuration is designed for performance enthusiasts, showing:
 - SSD temperatures and network activity
 - Beautiful violet (#aa1be8) color scheme
 
-## 📸 Preview
-
-![Conky Screenshot](./screenshots/preview.png)
-
 ## 🚀 Installation
 
 1. Clone this repo:
